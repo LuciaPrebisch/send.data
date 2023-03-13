@@ -1,0 +1,111 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
+
+.caja1 {
+    width: 450px;
+    height: 570px;
+    display: inline-block;
+    justify-content: center;
+
+    padding-top: 5px;
+    margin-left: 450px;
+    margin-top: 40px; 
+
+}
+
+
+
+.conteiner {
+    width: 307px;
+    height: 520px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    margin-left: 40px;
+    border: 0.1px solid rgb(210, 205, 205); 
+    border-radius: 5px;
+    
+}
+
+
+label {
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    margin-left: 14px;
+    
+}
+
+
+
+.imagen {
+    margin-left: 150px;
+    padding-top: -2px;
+    margin-top: -5px;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 23px;
+    margin-left: 14px;
+    padding-top: 8px;
+}
+
+
+#Name {
+    margin-left: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    display: block;
+    width: 20vw;
+    height: 28px;
+}
+
+
+#Correo {
+    margin-left: 14px;
+    display: block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    width: 20vw;
+    height: 28px;
+ 
+}
+
+#Contraseña {
+    margin-left: 14px;
+    display: block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    width: 20vw;
+    height: 28px;
+    
+}
+
+.parrafos {
+    font-size: small;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 5px;
+    margin-left: 15px;
+}
+
+
+button {
+    background: rgb(219,210,91);
+    background: radial-gradient(circle, rgba(219,210,91,0.47942927170868344) 0%, rgba(221,240,66,1) 100%);
+    width: 20vw;
+    height: 35px;
+    border-radius: 4px;
+    margin-left: 14px;
+
+}
+
+
+.imagenflecha {
+    display: inline;
+    padding-top: 10px;
+}
